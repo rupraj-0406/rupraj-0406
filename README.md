@@ -1,4 +1,4 @@
-### Hi there friends👋
+### Hi there 👋
 
 <!--
 **rupraj-0406/rupraj-0406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
